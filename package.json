@@ -12,9 +12,14 @@
   ],
   "author": "Muhammed Bugra Cimen",
   "license": "ISC",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/fredrichmonigue/deneme.git"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.20.2"
   }
 }
