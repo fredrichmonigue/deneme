@@ -1,0 +1,20 @@
+{
+  "name": "m-bugra-cimen",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Muhammed Bugra Cimen",
+  "license": "ISC",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredrichmonigue/deneme.git"
+  }
+}
